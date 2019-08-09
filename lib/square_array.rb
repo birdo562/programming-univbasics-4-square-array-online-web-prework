@@ -1,1 +1,2 @@
-def square_array(numbers)
+def square_array
+  square_array=
