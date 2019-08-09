@@ -1,3 +1,4 @@
 def square_array(numbers)
   numbers=[1,2,3]
-  squa
+  square_array << n**2
+end
